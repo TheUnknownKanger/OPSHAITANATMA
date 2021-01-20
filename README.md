@@ -5,7 +5,7 @@ About: Best User Bot To Manage Your Telegram Account with no adult memes or spam
 
 # LEGEND Userbot
 
- [![LEGEND USERBOT](https://telegra.ph/file/e158c2b1da9e71587dc0a.png)](https://github.com/KeshavTech246/LEGEND-Userbot/blob/master/legend.jpg) 
+ [![OP SHAINTAN ATMA](https://telegra.ph/file/88bbdf42501f490fd5ef6.jpg)](https://github.com/TheUnknownKanger/OPSHAITANATMA/blob/master/legend.jpg) 
 
 [![forthebadge made-with-python](https://camo.githubusercontent.com/5392ad6fb7875a2520001270f08309896b6cb25d/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://www.python.org/) 
 
@@ -13,21 +13,21 @@ About: Best User Bot To Manage Your Telegram Account with no adult memes or spam
 
 ##  Most PowerFul And Better And Secure
 
-By Team \#LEGEND™
+By Team \#SHAITAN
 
 
 ## This Bot is Made With care No Adult Contents and Abusive Memes. If Any Tell in Issue Column With Command Name.
 
 ### For any query or want to know how it works join Group And Channel 
 
-<a href="https://t.me/legendsupportchannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/legendsupportgroup"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/opshaitansupportchannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/opshaitansupportgroup"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Installing Heroku
 
 The Easy Way
 
-[![Deploy To Heroku](https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FKeshavTech246%2FLEGEND-Userbot&template=https%3A%2F%2Fgithub.com%2FKeshavTech246%2FLEGEND-Userbot)
+[![Deploy To Heroku](https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTheUnknownKanger%2FOPSHAITANATMA&template=https%3A%2F%2Fgithub.com%2FTheUnknownKanger%2FOPSHAITANATMA)
 
 ##  GET STRING SESSION FROM REPL RUN
 
