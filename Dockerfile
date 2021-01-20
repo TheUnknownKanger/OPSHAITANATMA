@@ -71,7 +71,7 @@ RUN apt -qq install -y --no-install-recommends \
 # requiring the use of the entire repo, hence
 RUN pip3 install --upgrade pip setuptools
 # adds files from your Docker client’s current directory.
-RUN git clone https://github.com/KeshavTech246/LEGEND-USERBOT/root/userbot
+RUN git clone https://github.com/TheUnknownKanger/OPSHAITANATMA/root/userbot
 RUN mkdir /root/userbot/bin/
 WORKDIR /root/userbot/
 RUN chmod +x /usr/local/bin/*
